@@ -13,6 +13,8 @@
 		CE9C69C52AE043000013E42E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE9C69C32AE043000013E42E /* Main.storyboard */; };
 		CE9C69C72AE043020013E42E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE9C69C62AE043020013E42E /* Assets.xcassets */; };
 		CE9C69CA2AE043020013E42E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE9C69C82AE043020013E42E /* LaunchScreen.storyboard */; };
+		CE9C69D22AE043AF0013E42E /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9C69D12AE043AF0013E42E /* DetailViewController.swift */; };
+		CE9C69D42AE0545D0013E42E /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9C69D32AE0545D0013E42E /* Photo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		CE9C69C62AE043020013E42E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE9C69C92AE043020013E42E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE9C69CB2AE043020013E42E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE9C69D12AE043AF0013E42E /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		CE9C69D32AE0545D0013E42E /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				CE9C69BD2AE043000013E42E /* AppDelegate.swift */,
 				CE9C69BF2AE043000013E42E /* SceneDelegate.swift */,
 				CE9C69C12AE043000013E42E /* ViewController.swift */,
+				CE9C69D12AE043AF0013E42E /* DetailViewController.swift */,
+				CE9C69D32AE0545D0013E42E /* Photo.swift */,
 				CE9C69C32AE043000013E42E /* Main.storyboard */,
 				CE9C69C62AE043020013E42E /* Assets.xcassets */,
 				CE9C69C82AE043020013E42E /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				CE9C69C22AE043000013E42E /* ViewController.swift in Sources */,
 				CE9C69BE2AE043000013E42E /* AppDelegate.swift in Sources */,
 				CE9C69C02AE043000013E42E /* SceneDelegate.swift in Sources */,
+				CE9C69D22AE043AF0013E42E /* DetailViewController.swift in Sources */,
+				CE9C69D42AE0545D0013E42E /* Photo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
